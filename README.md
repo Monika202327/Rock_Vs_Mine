@@ -1,1 +1,1 @@
-##Rock_vs_Mine_Predicton(SVM and Logistic Regression)
+## Rock_Vs_Mine_Predicton(SVM and Logistic Regression)
